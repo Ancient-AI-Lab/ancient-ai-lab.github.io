@@ -42,6 +42,4 @@ That's it. That's the lab.
 
 ---
 
-**Get in touch:** [CONTACT_EMAIL]
-
 **Code:** [github.com/Ancient-AI-Lab](https://github.com/Ancient-AI-Lab)
