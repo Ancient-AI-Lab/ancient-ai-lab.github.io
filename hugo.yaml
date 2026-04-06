@@ -1,0 +1,63 @@
+baseURL: "https://ancient-ai-lab.github.io/"
+languageCode: en-us
+title: Ancient AI Lab
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  description: "Computational physics meets ancient mysteries. We run the math others won't."
+  homeInfoParams:
+    Title: "We run the math on ancient mysteries."
+    Content: >
+      Computational physics. Open-source notebooks.
+      Honest results -- even when the answer is no.
+  socialIcons:
+    - name: github
+      url: "https://github.com/Ancient-AI-Lab"
+
+  label:
+    text: "Ancient AI Lab"
+
+  comments: true
+
+  assets:
+    favicon: "/images/favicon.ico"
+    disableFingerprinting: true
+
+  customCSS:
+    - css/custom.css
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: github
+      name: GitHub
+      url: https://github.com/Ancient-AI-Lab
+      weight: 40
+
+markup:
+  highlight:
+    style: dracula
+    lineNos: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

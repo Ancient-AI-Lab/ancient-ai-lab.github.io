@@ -1,0 +1,78 @@
+/* Brand color overrides for PaperMod theme */
+/* Source: brand/visual-identity.md + 17-UI-SPEC.md */
+
+:root {
+  --theme: #0d0d1a;
+  --entry: #1e1e5e;
+  --primary: #e8e8f0;
+  --secondary: #a0a0b8;
+  --tertiary: rgba(30, 30, 94, 0.4);
+  --content: #e8e8f0;
+  --hljs-bg: #1e1e5e;
+  --code-bg: #1a1a4e;
+  --border: #2d2d7f;
+}
+
+.dark {
+  --theme: #0d0d1a;
+  --entry: #1e1e5e;
+  --primary: #e8e8f0;
+  --secondary: #a0a0b8;
+  --tertiary: rgba(30, 30, 94, 0.4);
+  --content: #e8e8f0;
+  --hljs-bg: #1e1e5e;
+  --code-bg: #1a1a4e;
+  --border: #2d2d7f;
+}
+
+/* Accent color */
+a {
+  color: #e0b840;
+}
+
+a:hover {
+  color: #f0c850;
+}
+
+/* Typography */
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+code, pre {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+h2, h3, h4 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* Content width */
+.post-content {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* Blockquote accent */
+blockquote {
+  border-left: 3px solid #e0b840;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+}
