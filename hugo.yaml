@@ -10,12 +10,13 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  description: "Computational physics meets ancient mysteries. We run the math others won't."
+  description: "Open-source physics research testing ancient mysteries -- acoustic levitation, Navy antigravity, pyramid power. Real FEM simulations. Honest results."
   homeInfoParams:
-    Title: "We run the math on ancient mysteries."
+    Title: "We tested the Navy's antigravity patent. It's 22 orders of magnitude short."
     Content: >
-      Computational physics. Open-source notebooks.
-      Honest results -- even when the answer is no.
+      Ancient AI Lab uses FEM simulations, symbolic regression, and open-source math to test
+      ancient mysteries claims -- acoustic levitation, pyramid power, Tesla, Coral Castle, and more.
+      Most mechanisms fail. We report that honestly.
   socialIcons:
     - name: github
       url: "https://github.com/Ancient-AI-Lab"
