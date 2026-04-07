@@ -10,13 +10,13 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  description: "Open-source physics research testing ancient mysteries -- acoustic levitation, Navy antigravity, pyramid power. Real FEM simulations. Honest results."
+  description: "Built with Claude Code. We test ancient mysteries claims with real FEM simulations -- Navy antigravity, pyramid power, acoustic levitation. Math is open."
   homeInfoParams:
-    Title: "We tested the Navy's antigravity patent. It's 22 orders of magnitude short."
+    Title: "We used Claude Code to test the Navy's antigravity patent. 22 orders of magnitude short."
     Content: >
-      Ancient AI Lab uses FEM simulations, symbolic regression, and open-source math to test
-      ancient mysteries claims -- acoustic levitation, pyramid power, Tesla, Coral Castle, and more.
-      Most mechanisms fail. We report that honestly.
+      Ancient AI Lab is built entirely with Claude Code on a MacBook Air M4. We test ancient mysteries
+      claims -- acoustic levitation, pyramid power, Tesla, Coral Castle -- with real FEM simulations.
+      Most fail. Every notebook is on GitHub.
   socialIcons:
     - name: github
       url: "https://github.com/Ancient-AI-Lab"
