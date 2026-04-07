@@ -15,8 +15,8 @@ params:
     Title: "Using Claude Code to find the physics of the ancients."
     Content: >
       FEM simulations of Navy antigravity, pyramid power, acoustic levitation, Tesla, Coral Castle,
-      and more. 15 research phases. 173 passing tests. Most claims fail. We report that honestly.
-      Every notebook is on GitHub.
+      and more. 15 research phases. 173 passing tests. Most claims fail — but every gap we find
+      is a measurement of what we'd need to discover. Every notebook is on GitHub.
   socialIcons:
     - name: github
       url: "https://github.com/Ancient-AI-Lab"

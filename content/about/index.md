@@ -42,6 +42,16 @@ The entire pipeline is built with Claude Code on a MacBook Air M4. I use SfePy a
 
 Because somebody should. There are real questions about ancient construction that deserve real physics -- not YouTube speculation and not academic dismissal. I don't care if an idea comes from a peer-reviewed journal or a Reddit comment. If it's a testable claim, I run the simulation. When the math says no, I say no.
 
+### What if the gap isn't in their claims?
+
+Every result I've published uses the physics we have today. Newton, Maxwell, Einstein, quantum mechanics. And almost every ancient mechanism I've tested comes up short -- sometimes by 22 orders of magnitude.
+
+But here's what keeps me going: what if the gap isn't in their claims? What if it's in our math?
+
+I'm not saying our physics is wrong. I'm saying I've now documented exactly where it would need to be different. Every OOM gap is a measurement of what we'd need to discover. Every "ruled out" is ruled out *within current frameworks*. If there's a new physics -- a new coupling constant, a nonlinear effect we haven't modeled, a mechanism we haven't named -- this is the data that would point to it.
+
+That's why the code is open. That's why every assumption is stated. So when someone finds the thing I missed, they can prove it.
+
 That's it. That's the lab.
 
 ---
