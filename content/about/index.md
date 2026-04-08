@@ -27,7 +27,7 @@ I'm running finite element simulations on the specific claims that the ancient m
 - **Piezoelectric granite weakening** -- Can electrical excitation exploit the quartz grains inside granite?
 - **Ancient acoustic architecture** -- Were temples and chambers deliberately tuned to specific frequencies?
 
-I've screened 50+ mechanism claims from 170+ sources -- ancient mysteries books, peer-reviewed papers, esoteric traditions, consciousness-matter research. Some mechanisms fail immediately. Some survive first-principles screening. A few have surprised me.
+And that's just the start. I've screened 50+ mechanism claims from 170+ sources -- ancient mysteries books, peer-reviewed papers, esoteric traditions, consciousness-matter researchers like Dean Radin and William Tiller, 19th century acoustic experimenters, ancient texts, and more. Some mechanisms fail immediately. Some survive first-principles screening. A few have surprised me. And an AI research agent just found peer-reviewed papers that reopen mechanisms I thought were ruled out.
 
 The results are coming out as blog posts. Follow along.
 
